@@ -13,7 +13,7 @@ conda-develop /path/to/gpuocean/src
 ```
 
 ## Reproducing Results
-The plots in the proceedings article "XXX" of the Finite Volumes for Complex Applications 10 (FVCA10) symposium are generated in the notebooks in this repository:
+The plots in the proceedings article *Reducing Numerical Artifacts by Sacrificing Well-Balance for Rotating Shallow Water Flow* submitted to the Finite Volumes for Complex Applications 10 (FVCA10) symposium are generated in the notebooks in this repository:
 - Figure 1: `Bump.ipynb`
 - Figure 2: `RossbyAdjustment.ipynb`
 - Figure 3: `KelvinWave.ipynb`
